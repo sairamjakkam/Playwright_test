@@ -8,5 +8,5 @@ testMatch: ["Launch.spec.ts"],
 use : { headless:false}
 
 };
-
+console.log('Test');
 export default config;
